@@ -1,5 +1,5 @@
 //Number of ms from 1970 until May 4, 2024
-let countDownDate = new Date("May 4, 2024 18:59:59").getTime();
+let countDownDate = new Date("Oct 1, 2024 18:59:59").getTime();
 
 let counter = setInterval(() => {
 
